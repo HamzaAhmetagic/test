@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 50px;
+	background-color: skyblue;
+}
+.time {
+	float: right;
+	color:white;
+	font-size: 32px;
+}
